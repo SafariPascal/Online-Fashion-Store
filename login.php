@@ -61,3 +61,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <?php if ($showVerifyLink) : ?>
     <p><a href="verify.php">Verify here</a></p>
 <?php endif; ?>
+
